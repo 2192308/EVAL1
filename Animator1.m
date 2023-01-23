@@ -3,7 +3,7 @@ function Animator1(Th, tt)
 % Email: smtoraabi@ymail.com
 %%
 try
-    filename = 'Pic/Anim1.gif';
+    filename = 'Anim1.gif';
     Hf = figure;
     set(Hf,'color',[1 1 1]);
     
