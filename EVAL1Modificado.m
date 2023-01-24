@@ -1,6 +1,7 @@
 % Author: Mansour Torabi
 % Email: smtoraabi@ymail.com
-%%  
+% Editado por: Cristian Sierra, Miller Gamba y Diego Espinel
+%  
 clc, clear
 
 syms th1 th2  Dth1 Dth2        % permite declarar más de una variable simbólica
