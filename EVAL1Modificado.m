@@ -84,7 +84,7 @@ set(H,'interpreter','latex','fontsize',18,'location','SouthWest');
 hx = xlabel('Tiempo (s)');   set(hx, 'fontsize', 18);
 hy = ylabel('Angulo (grados)'); set(hy, 'fontsize', 18);
 set(gca, 'fontsize', 18);
-saveas(gcf, 'Pic/Ex1.png')
+saveas(gcf, 'Ex1.png')
 title('m1v=m1*exp(-t); m2v=m2*exp(5*t)')
 subtitle('b1=5; b2=0[Pa*s]')
 %%
